@@ -1,4 +1,4 @@
-## 🌟 Junpyo Kim
+## 🌟 Tigro-Amur
   ### 🥇 I’m interested in Visual/LiDAR SLAM, Localization, Point cloud sensing
   ### 🤖 I’m currently Master's degree student  in MPIL at GIST
 
